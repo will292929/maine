@@ -44,12 +44,13 @@
       padding-bottom:10px;
     }
     @media (min-width: 720px){
-      .controls{grid-template-columns: 1fr 160px; align-items:end;}
+      .controls{grid-template-columns: 260px 1fr 160px; align-items:end;}
     }
 
     label{font-size:12px; color:var(--muted); display:block; margin-bottom:6px;}
 
-    input, button{
+    /* Inputs */
+    input, select, button{
       width:100%;
       min-width:0;
       border-radius:14px;
@@ -62,6 +63,26 @@
       line-height:1.2;
     }
     input::placeholder{color:rgba(154,167,189,.7);}
+
+    /* Fix mobile dropdown rendering */
+    select{
+      appearance:none;
+      -webkit-appearance:none;
+      -moz-appearance:none;
+      padding-right:38px; /* room for arrow */
+      touch-action: manipulation;
+    }
+    .select-wrap{position:relative;}
+    .select-wrap::after{
+      content:"▾";
+      position:absolute;
+      right:14px;
+      top:50%;
+      transform:translateY(-50%);
+      pointer-events:none;
+      color:rgba(154,167,189,.9);
+      font-size:14px;
+    }
 
     button{
       cursor:pointer;
@@ -78,27 +99,6 @@
       border-radius:999px;
       background:rgba(255,255,255,.06);
       border:1px solid var(--stroke);
-    }
-
-    .chips{
-      margin-top:10px;
-      display:flex;
-      gap:8px;
-      flex-wrap:wrap;
-    }
-    .chip{
-      border:1px solid var(--stroke);
-      background:rgba(255,255,255,.05);
-      color:var(--text);
-      padding:8px 10px;
-      border-radius:999px;
-      font-size:12px;
-      cursor:pointer;
-      user-select:none;
-    }
-    .chip.active{
-      border-color: rgba(110,168,255,.55);
-      background: rgba(110,168,255,.16);
     }
 
     main{padding:16px 0 40px;}
@@ -128,6 +128,7 @@
       line-height:1.35;
     }
     .warn{color:rgba(255,110,110,.92);}
+    a{color:var(--accent); text-decoration:none;}
   </style>
 </head>
 
@@ -136,14 +137,22 @@
   <div class="wrap">
     <div class="title">
       <h1>Maine Municipal Office Hours & Absentee Drop Box Locations</h1>
-      <div class="sub">Search statewide (optional county filter)</div>
+      <div class="sub">Mobile lookup by county (static dataset)</div>
     </div>
 
     <div class="controls">
       <div>
-        <label for="q">Search (municipality, county, hours, address)</label>
-        <input id="q" type="search" placeholder="e.g., Bangor, Penobscot, 8am, Main Street…" />
+        <label for="county">County</label>
+        <div class="select-wrap">
+          <select id="county" aria-label="County"></select>
+        </div>
       </div>
+
+      <div>
+        <label for="q">Search (municipality, hours, address)</label>
+        <input id="q" type="search" placeholder="e.g., Bangor, 8am, Main Street…" />
+      </div>
+
       <div>
         <label>&nbsp;</label>
         <button id="shareBtn" type="button">Copy Share Link</button>
@@ -151,12 +160,9 @@
     </div>
 
     <div class="meta-row">
-      <div class="pill"><span id="statusText">Loading data…</span></div>
       <div class="pill"><span id="countPill">0 results</span></div>
-      <div class="pill"><span id="countyPill">County: All</span></div>
+      <div class="pill"><span>Source: Maine SOS PDF</span></div>
     </div>
-
-    <div id="chips" class="chips" aria-label="County filters"></div>
   </div>
 </header>
 
@@ -169,16 +175,21 @@
 </main>
 
 <script>
+  const countySelect = document.getElementById('county');
   const qInput = document.getElementById('q');
   const listEl = document.getElementById('list');
   const countPill = document.getElementById('countPill');
   const shareBtn = document.getElementById('shareBtn');
+
+  // Add a visible status pill (so you stop guessing)
+  const metaRow = document.querySelector('.meta-row');
+  const statusPill = document.createElement('div');
+  statusPill.className = 'pill';
+  statusPill.innerHTML = '<span id="statusText">Loading data…</span>';
+  metaRow.prepend(statusPill);
   const statusText = document.getElementById('statusText');
-  const chipsEl = document.getElementById('chips');
-  const countyPill = document.getElementById('countyPill');
 
   let DATA = [];
-  let activeCountyCode = ""; // empty = All
 
   function esc(s){
     return (s ?? '').toString()
@@ -205,67 +216,59 @@
     const required = ["countyCode","countyName","municipality","wp","officeHours","dropBoxLocation"];
     const missing = required.filter(k => !(k in sample));
     if(missing.length){
-      throw new Error("data.json keys don't match expected fields. Missing: " + missing.join(", "));
+      throw new Error(
+        "data.json keys don't match what the site expects. Missing: " +
+        missing.join(", ") +
+        ". Fix your JSON keys or tell me your current keys and I’ll map them."
+      );
     }
   }
 
-  function buildCountyChips(data){
+  function buildCountyDropdown(data){
     const counties = Array.from(new Map(data.map(r => [r.countyCode, r.countyName])).entries())
       .map(([countyCode, countyName]) => ({ countyCode, countyName }))
       .sort((a,b) => a.countyName.localeCompare(b.countyName));
 
-    chipsEl.innerHTML = counties.map(c => `
-      <div class="chip" data-code="${esc(c.countyCode)}" title="Filter to ${esc(c.countyName)}">
-        ${esc(c.countyName)}
-      </div>
-    `).join("");
-
-    chipsEl.addEventListener('click', (e) => {
-      const chip = e.target.closest('.chip');
-      if(!chip) return;
-      const code = chip.getAttribute('data-code') || "";
-
-      // toggle
-      activeCountyCode = (activeCountyCode === code) ? "" : code;
-
-      // update UI active states
-      for(const el of chipsEl.querySelectorAll('.chip')){
-        el.classList.toggle('active', el.getAttribute('data-code') === activeCountyCode && activeCountyCode !== "");
-      }
-
-      updateCountyPill();
-      render();
-    });
+    countySelect.innerHTML =
+      `<option value="" disabled selected>Select a county…</option>` +
+      counties.map(c =>
+        `<option value="${esc(c.countyCode)}">${esc(c.countyName)} (${esc(c.countyCode)})</option>`
+      ).join("");
 
     return counties;
   }
 
-  function updateCountyPill(){
-    if(!activeCountyCode){
-      countyPill.textContent = "County: All";
-      return;
-    }
-    const row = DATA.find(r => r.countyCode === activeCountyCode);
-    countyPill.textContent = row ? `County: ${row.countyName}` : `County: ${activeCountyCode}`;
-  }
-
   function render(){
+    const countyCode = countySelect.value;
     const q = normalize(qInput.value);
 
-    let rows = DATA;
-
-    if(activeCountyCode){
-      rows = rows.filter(r => r.countyCode === activeCountyCode);
+    if(!DATA.length){
+      countPill.textContent = "0 results";
+      listEl.innerHTML = `
+        <div class="card">
+          <div class="muni">No data loaded</div>
+          <div class="row"><div class="v na">Fix data.json loading first (see status above).</div></div>
+        </div>`;
+      return;
     }
 
-    if(q){
-      rows = rows.filter(r => {
-        const blob = normalize([
-          r.countyName, r.countyCode, r.municipality, r.officeHours, r.dropBoxLocation, r.wp
-        ].join(" "));
+    if(!countyCode){
+      countPill.textContent = "0 results";
+      listEl.innerHTML = `
+        <div class="card">
+          <div class="muni">Pick a county</div>
+          <div class="row"><div class="v na">Select a county to view municipalities.</div></div>
+        </div>`;
+      return;
+    }
+
+    const rows = DATA
+      .filter(r => r.countyCode === countyCode)
+      .filter(r => {
+        if(!q) return true;
+        const blob = normalize([r.municipality, r.officeHours, r.dropBoxLocation, r.wp].join(" "));
         return blob.includes(q);
       });
-    }
 
     countPill.textContent = `${rows.length} result${rows.length === 1 ? "" : "s"}`;
 
@@ -273,26 +276,19 @@
       listEl.innerHTML = `
         <div class="card">
           <div class="muni">No matches</div>
-          <div class="row"><div class="v na">Try a different search (or clear the county filter).</div></div>
+          <div class="row"><div class="v na">Clear search or verify you picked the right county.</div></div>
         </div>`;
-      setParams(activeCountyCode, qInput.value.trim());
+      setParams(countyCode, qInput.value.trim());
       return;
     }
 
-    // Render a reasonable number fast; you can lift this cap if you want.
-    const MAX = 400;
-    const shown = rows.slice(0, MAX);
-
-    listEl.innerHTML = shown.map(r => {
+    listEl.innerHTML = rows.map(r => {
       const hours = (r.officeHours || "").trim() || "N/A";
       const box = (r.dropBoxLocation || "").trim() || "N/A";
       return `
         <div class="card">
           <div class="card-top">
-            <div>
-              <div class="muni">${esc(r.municipality)}</div>
-              <div class="k">${esc(r.countyName)} (${esc(r.countyCode)})</div>
-            </div>
+            <div class="muni">${esc(r.municipality)}</div>
             <div class="wp">${esc(r.wp || "")}</div>
           </div>
 
@@ -309,54 +305,43 @@
       `;
     }).join("");
 
-    if(rows.length > MAX){
-      const extra = rows.length - MAX;
-      listEl.insertAdjacentHTML("beforeend", `
-        <div class="card">
-          <div class="muni">Showing first ${MAX} results</div>
-          <div class="row"><div class="v na">${extra} more match your filters. Refine search to narrow it down.</div></div>
-        </div>
-      `);
-    }
-
-    setParams(activeCountyCode, qInput.value.trim());
+    setParams(countyCode, qInput.value.trim());
   }
 
   async function init(){
     try{
       statusText.textContent = "Loading data.json…";
       const res = await fetch('./data.json', { cache:'no-store' });
-      if(!res.ok) throw new Error(`Failed to load data.json (HTTP ${res.status}).`);
+
+      if(!res.ok){
+        throw new Error(`Failed to load data.json (HTTP ${res.status}). Put data.json next to index.html.`);
+      }
 
       const rows = await res.json();
       validateDataShape(rows);
 
       DATA = rows;
-      statusText.textContent = `Loaded ${DATA.length} rows`;
-
-      buildCountyChips(DATA);
+      buildCountyDropdown(DATA);
 
       const params = getParams();
       if(params.q) qInput.value = params.q;
 
       if(params.county && DATA.some(r => r.countyCode === params.county)){
-        activeCountyCode = params.county;
-        // mark active chip
-        for(const el of chipsEl.querySelectorAll('.chip')){
-          el.classList.toggle('active', el.getAttribute('data-code') === activeCountyCode);
-        }
+        countySelect.value = params.county;
       }
 
-      updateCountyPill();
+      statusText.textContent = `Loaded ${DATA.length} rows`;
       render();
     } catch(err){
       statusText.textContent = `ERROR: ${err.message}`;
       console.error(err);
       DATA = [];
+      countySelect.innerHTML = `<option value="" disabled selected>Data error</option>`;
       render();
     }
   }
 
+  countySelect.addEventListener('change', render);
   qInput.addEventListener('input', () => window.requestAnimationFrame(render));
 
   shareBtn.addEventListener('click', async () => {
@@ -372,6 +357,6 @@
 
   init();
 </script>
+
 </body>
 </html>
-
