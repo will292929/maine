@@ -1,0 +1,4034 @@
+[
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "AUBURN",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm 60 Court Street"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "AUBURN",
+    "wp": "2-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm 60 Court Street"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "AUBURN",
+    "wp": "3-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm 60 Court Street"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "AUBURN",
+    "wp": "4-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm 60 Court Street"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "AUBURN",
+    "wp": "5-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm 60 Court Street"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "DURHAM",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-5pm; Th: 10:00am-6pm 630 Hallowell Rd"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "GREENE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8:30am-7pm; T-F: 8:30am-4pm N/A"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "LEEDS",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "12:30pm-4:30pm; T-F: 8:30am-4:30pm 8 Community Drive"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "LEWISTON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 7:45am-4pm; Tu: 7:45am-5:30pm 27 Pine St"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "LEWISTON",
+    "wp": "7-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 7:45am-4pm; Tu: 7:45am-5:30pm 27 Pine St"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "LISBON",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-4:30pm 300 Lisbon St"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "LIVERMORE",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th: 8:30am-6pm; T, F: 8:30am-4pm 10 Crash Road"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "LIVERMORE FALLS",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm 2 Main St"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "MECHANIC FALLS",
+    "wp": "1-1",
+    "officeHours": "108",
+    "dropBoxLocation": "Lewiston St"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "MINOT",
+    "wp": "1-1",
+    "officeHours": "329",
+    "dropBoxLocation": "Woodman Hill Rd"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "POLAND",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-7pm; T-F: 9am-4pm 1231 Maine St"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "SABATTUS",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-4:30pm 190 Middle Road"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "TURNER",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-6pm 11 Turner Center Rd"
+  },
+  {
+    "countyCode": "AND",
+    "countyName": "Androscoggin",
+    "municipality": "WALES",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 10am-2pm; T, Th: 3pm-7pm; F: 9am-12pm 175 Centre Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "ALLAGASH",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "8am-12pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "AMITY",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "10am-6pm; W-Th: 8am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "BLAINE (and E Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 8:30am-4pm; W: 8:30am-6pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "BRIDGEWATER (and TD R2 WELS Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8:30am-4pm; W: 8:30am-6pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CARIBOU (and Connor Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm 25 High Street"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CARY TWP (with Hodgdon)",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8:30am-4pm; T-F: 8am-4pm 179 Hodgdon Mills Rd"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CASTLE HILL (and T11 R4 WELS Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 103 Pulcifur Rd (Mapleton)"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CASWELL",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "3:30pm-5:30pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CHAPMAN",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 103 Pulcifur Rd (Mapleton)"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CONNOR TWP (with Caribou)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm 25 High St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CROSS LAKE TWP (with New Canada)",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 8:30am-4:30pm; W: 5:30pm-7pm; Sa: 8am-10am 1809 Caribou Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CRYSTAL (with Island Falls)",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8am-4pm; W: 8am-1pm 68 Houlton Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "CYR PLT",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "DYER BROOK",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W-Th: 7:30am-4:30pm; T: 10am-7pm 864 Dyer Brook Rd"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "EAGLE LAKE (and T15 R6 WELS Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm 36 Devoe Brook Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "EASTON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 8am-4:30pm; Tu: 8am-6pm; F: 8am-3pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "FORT FAIRFIELD",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "7:30am-4:30pm 18 Community Center Drive"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "FORT KENT (and Big Twenty Twp & T15 R15 WELS Twp)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "7am-5pm; Th: 7am-4:30pm 416 West Main Street"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "FRENCHVILLE",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "8am-6pm; W-Th: 8am-5:30pm; F: 8am-4:30pm 285 Us Route 1"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "GARFIELD PLT",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "9am-2pm; W: 3pm-6pm 10 Cross Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "GLENWOOD PLT",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "GRAND ISLE",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W-F: 9am-4:30pm 366 Main St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "HAMLIN",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "HAMMOND",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "2pm-6pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "HAYNESVILLE (and Forkstown Twp)",
+    "wp": "1-1",
+    "officeHours": "T-Th:",
+    "dropBoxLocation": "7am-2:30pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "HERSEY",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 9am-4:30pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "HODGDON (and Cary Twp)",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8:30am-4pm; Tu-F: 8am-4pm 179 Hodgdon Mills Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "HOULTON",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "7:30am-4pm 21 Water St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "ISLAND FALLS (and T4 R3 Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8am-4pm; W: 8am-12pm 68 Houlton Rd"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "LINNEUS (and Forkstown Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "LITTLETON",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "9am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "LUDLOW",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 9am-5pm; F: 9am-4:30pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MACWAHOC PLT (and Molunkus Twp)",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "5pm-7pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MADAWASKA",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm 328 St. Thomas Street"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MADAWASKA LAKE (with Stockholm)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "10am-4:30pm 62 School St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MAPLETON",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 103 Pulcifer Rd"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MARS HILL",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 7:30am-5pm; W: 7:30am-06:00pm 37 Main Street"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MASARDIS (and Oxbox North Twp & T11 R4 WELS Twp)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-12pm, 1pm-4pm 26 School St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MERRILL",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MONTICELLO",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-4pm; Th: 8am-6pm; F: By appointment 405 Us Hwy 1"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "MORO PLT (and T7 R5 WELS Twp)",
+    "wp": "1-1",
+    "officeHours": "M-T,",
+    "dropBoxLocation": "Th-F: 9am-4:30pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "NEW CANADA (and Cross Lake Twp)",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 8:30am-4:30pm; W: 5:30pm-7pm; Sa: 8am-10am 1809 Caribou Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "NEW LIMERICK",
+    "wp": "1-1",
+    "officeHours": "11",
+    "dropBoxLocation": "Old Station Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "NEW SWEDEN",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "9am-4pm 50 Station St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "OAKFIELD",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 80 School St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "ORIENT",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "OXBOW NORTH TWP (with Masardis)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-12pm, 1pm-4pm 26 School St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "PERHAM",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "PORTAGE LAKE (and Nashville Plt)",
+    "wp": "1-1",
+    "officeHours": "T-W:",
+    "dropBoxLocation": "8am-4:30pm; Th: 7:30am-4:30pm; F: 7:30am-1pm 20 School Street"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "PRESQUE ISLE",
+    "wp": "1-3",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm 12 Second Street"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "REED PLT (and Upper Molunkus Twp- T1 R4)",
+    "wp": "1-1",
+    "officeHours": "Tu:",
+    "dropBoxLocation": "12:30pm-2:30pm and by appointment N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "SAINT AGATHA (and Sinclair)",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "W: 7:30am-5pm; Th: 7:30am-6pm; F: 7am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "SAINT FRANCIS",
+    "wp": "1-1",
+    "officeHours": "T-W,",
+    "dropBoxLocation": "F: 8am-12pm; Th: 4pm-7pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "SAINT JOHN PLT",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "W, F: 7am-12pm; Th: 4pm-7pm 1774 St. John Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "SHERMAN",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "SINCLAIR (with Saint Agatha)",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "W: 7:30am-5pm; Th: 7:30am-6pm; F: 7am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "SMYRNA",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "STOCKHOLM (and Madawaska Lake Twp)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "10am-4:30pm 62 School St"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "VAN BUREN (and Van Buren Cove- T17 R3 Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm 320 Main St Ste 101"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "WADE",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "7am-4pm; F: 7am-12pm 1370 Main Street"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "WALLAGRASS",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "WASHBURN",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-4pm; F: 7am-12pm 1370 Main Street"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "WESTFIELD",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "9am-5pm; Th: 10am-6pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "WESTMANLAND",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-11am; F: 3pm-6pm 1157 Westmanland Rd"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "WESTON (and Bancroft Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8am-4pm N/A"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "WINTERVILLE PLT (and T15 R6 WELS Twp)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "1pm-6pm 391 Quimby Road"
+  },
+  {
+    "countyCode": "ARO",
+    "countyName": "Aroostook",
+    "municipality": "WOODLAND",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "BALDWIN",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Sa: 8am-12pm; T: 8am-7pm; W-F: 8am-4pm N/A"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "BRIDGTON",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5pm 3 Chase Street"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "BRUNSWICK",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-4:30; F: 8:30am-3pm 85 Union Street"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "CAPE ELIZABETH",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "7:30am-5pm; T-Th: 7:30am-4:30pm 320 Ocean House Road"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "CASCO",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 7:30am-5pm; Tu: 8:30am-6pm 635 Meadow Rd"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "CHEBEAGUE ISLAND",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th-F: 9am-4pm 192 North Rd"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "CUMBERLAND",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-5pm; Th: 8am-6pm 290 Tuttle Road"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "FALMOUTH",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "7am-4:30pm; T-W: 8am-4:30pm; Th: 8am-6:30pm 271 Falmouth Road"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "FREEPORT",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-6pm 30 Main Street"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "FRYE ISLAND",
+    "wp": "1-1",
+    "officeHours": "Tu,",
+    "dropBoxLocation": "Th-Sa: 9am-3pm 10 Fairway Lane"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "GORHAM",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5pm 75 South Street"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "GRAY",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 8am-5pm; T: 8am-6pm; Th: 7am-3pm 24 Main St"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "HARPSWELL",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 8:30am-4:30pm; Th: 1pm-6:30pm 263 Mountain Rd"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "HARRISON",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8am-4pm; W: 10am-6pm 20 Front St."
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "LONG ISLAND",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "10:30am-6:30pm; Th: 8am-12pm 105 Wharf St."
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "NAPLES",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "7:30am-4:30pm 15 Village Green Lane"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "NEW GLOUCESTER",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-7pm; T-W: 8am-5pm; Th: 7am-4pm 385 Intervale Rd"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "NORTH YARMOUTH",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-6pm; T-Th: 8am-5pm 10 Village Square Rd"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "PORTLAND",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4:30pm 389 Congress St and 212 Canco Road"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "POWNAL",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8:30am-6:30pm; T-Th: 8:30am-4:30pm 429 Hallowell Road"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "RAYMOND",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "8am-6pm; W-F: 8am-4pm 401 Webbs Mills Rd"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "SCARBOROUGH",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5pm 259 Us Route One"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "SEBAGO",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 8am-5pm; Tu: 10am-7pm 406 Bridgton Road"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "SOUTH PORTLAND",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 7:30am-5pm; Tu: 9am-6pm 25 Cottage Rd"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "STANDISH",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-4:30pm 175 Northeast Rd"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "WESTBROOK",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "9am-5pm; Th: 10am-6pm 2 York St"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "WINDHAM",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 7am-5pm; T: 7am-6pm; Th: 7am-4pm 8 School Road"
+  },
+  {
+    "countyCode": "CUM",
+    "countyName": "Cumberland",
+    "municipality": "YARMOUTH",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "8am-4pm; F: 8am-12pm 200 Main Street"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "AVON",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "F: 9am-1pm 1116 Rangeley Rd"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "CARRABASSETT VALLEY",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 1001 Carriage Road"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "CARTHAGE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-1pm; T: 12pm-6pm; Th: 8am-5pm 703 Carthage Road"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "CHESTERVILLE",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "F: 9am-4:30pm; Th: 10am-7pm 409 Dutch Gap Road"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "COPLIN PLT (and Wyman Twp)",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "2pm-6pm ; Th: 12pm-4pm 5 Currie Street"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "DALLAS PLT",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8am-1pm,1pm-3:30pm N/A"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "EUSTIS (and Spring Lake Twp & Wyman Twp)",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "8am-3pm; F: 8am-12pm N/A"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "FARMINGTON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 7:30am-5:30pm; Tu: 8am-6pm 153 Farmington Falls Rd"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "FREEMAN TWP (with Strong)",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "8:30am-6pm; W-F: 8:30am-4:30pm N/A"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "INDUSTRY",
+    "wp": "1-1",
+    "officeHours": "Tu-Th:",
+    "dropBoxLocation": "12pm-6pm N/A"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "JAY",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm 340 Main St"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "KINGFIELD",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm 38 School St"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "NEW SHARON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "F: 10am-12:30pm, 1pm-6pm; W: 1pm-7pm 11 School Lane"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "NEW VINEYARD",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 10:30am-4:30pm N/A"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "PHILLIPS (and Madrid Twp)",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 9am-1:30pm N/A"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "RANGELEY PLT",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "2pm-6pm; T-F: 9am-12pm, 1pm-4pm 293 S Shore Drive"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "SANDY RIVER PLT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4:30pm N/A"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "STRONG (and Freeman Twp & Salem Twp)",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "8:30am-6pm; W-F: 8:30am-4:30pm N/A"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "TEMPLE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "11am-7pm; Th: 9am-5pm 258 Temple Road"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "WELD (and Perkins Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu:",
+    "dropBoxLocation": "8am-1pm; Th: 8am-1pm & 3pm-6pm 23 Mill Street"
+  },
+  {
+    "countyCode": "FRA",
+    "countyName": "Franklin",
+    "municipality": "WILTON (and Perkins Twp & Washington Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 8am-5pm; W: 7am-1pm; F: 8am-12pm 158 Weld Rd"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "AMHERST",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "AURORA",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "BAR HARBOR",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-5:30pm 93 Cottage St"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "BLUE HILL",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-5pm 18 Union St"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "BROOKLIN",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 8am-12pm,1pm-5pm 23 Bay Road Brooklin"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "BROOKSVILLE",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 9am-2pm; Th: 6p-8pm 1 Townhouse"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "BUCKSPORT",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm 50 Main St"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "CASTINE",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 8am-4pm; W: 8am-5pm 67 Court Street"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "CRANBERRY ISLES",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "9am-3pm N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "DEDHAM",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm 2073 Maine Rd"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "DEER ISLE",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "8am-3pm; W, F: 9am-1pm; Th: 4pm-7pm 70 Church St"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "EASTBROOK",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment 959 Eastbrook Road"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "ELLSWORTH (and Fletcher's Landing Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-6pm 1 City Hall Plaza"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "FRANKLIN (and T9 SD Twp & T10 SD Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-5pm N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "FRENCHBORO",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment 1 Executive Dr"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "GOULDSBORO (and T7 SD Twp)",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 8am-4pm; T: 8am-5pm; Th: 8am-6pm; F: 8am-1pm 59 Maine Street"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "GREAT POND",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "6pm-8pm N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "HANCOCK",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-4:30pm 18 Point Road"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "LAMOINE",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 8am-4pm; Th: 10am-6pm 606 Douglas Hwy"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "MARIAVILLE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-4pm; T-Th: 9am-6pm 1686 Mariaville Rd"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "MOUNT DESERT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "9am-4:30pm 21 Sea St."
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "ORLAND",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "8am-12pm, 1pm-5pm 25 School House Road"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "OSBORN",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "6pm-8pm; Sa: 9am-11am N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "OTIS",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, F: 8am-4pm; Tu, Th: 8am-2pm N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "PENOBSCOT",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-1pm; T: 9am-1pm & 4pm-7pm; Th: 9am-4pm 46 N.Penobscot Road"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "SEDGWICK",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "9am-3pm; Th: 9am-5:30pm; F: 9am-1pm 719 N. Sedgwick Rd"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "SORRENTO",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-2pm; W: 9am-5pm; F: 7am-12pm 79 Pomola Ave"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "SOUTHWEST HARBOR",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm 26 Village Green Way"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "STONINGTON",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 32 Main St"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "SULLIVAN",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5pm 1888 Us Highway 1"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "SURRY",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "7:30am-12pm and 1pm-4pm 741 North Bend Rd"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "SWAN'S ISLAND",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 1pm-4pm N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "TREMONT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "TRENTON",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-5pm 59 Oak Point Road"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "VERONA ISLAND",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, F: 9am-4pm; Th: 3pm-7pm N/A"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "WALTHAM",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 5pm-8pm 1520 Waltham Road"
+  },
+  {
+    "countyCode": "HAN",
+    "countyName": "Hancock",
+    "municipality": "WINTER HARBOR",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 20 School Street"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "ALBION (and Unity Twp)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "10am-4pm; Th: 12pm-6pm 22 Main Street"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "AUGUSTA",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "7:45pm-4:30pm 16 Cony St"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "AUGUSTA",
+    "wp": "2-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "7:45pm-4:30pm 16 Cony St"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "AUGUSTA",
+    "wp": "3-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "7:45pm-4:30pm 16 Cony St"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "AUGUSTA",
+    "wp": "4-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "7:45pm-4:30pm 16 Cony St"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "BELGRADE",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "F: 7am-5pm; Th: 7am-7pm 990 Augusta Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "BENTON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th: 7:30am-6pm; Tu-W: 7:30am-5pm 1279 Clinton Ave"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "CHELSEA",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th-F: 8:30am-4:30pm; W: 8:30am-6pm 560 Togus Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "CHINA",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 7:30am-4:30pm; Sa: 8am-11am 571 Lakeview Drive"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "CLINTON",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 7am-4:45pm; W: 7am-6pm 27 Baker Street"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "FARMINGDALE",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 7:30am-4pm; W: 10am-7pm; F: 7:30am-12:30pm 289 Maine Ave"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "FAYETTE",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "7am-4:30pm; Th: 7am-6:30pm 2589 Main Street"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "GARDINER",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 8am-4pm; W: 12pm-6pm; F: 8am-12pm 6 Church St"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "HALLOWELL",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4:30pm 1 Winthrop Street"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "LITCHFIELD",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-4pm; Th: 8am-6pm 2400 Hallowell Rd"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "MANCHESTER",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th: 8am-4pm; T: 8am-6pm; W: 8am-12pm; F: 8am-2pm 12 Readfield Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "MONMOUTH",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-6pm; T-Th: 9am-5pm 859 Main St"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "MOUNT VERNON",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-5pm; T-Th: 7am-3pm 1997 North Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "OAKLAND",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5pm 6 Cascade Mill Rd"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "PITTSTON",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 8am-5pm; W: 8am-6pm; F: 7am-1pm 38 Whitefield Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "RANDOLPH",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "F: 9am-2pm; T: 9am-7pm; W, Th: 9am-5pm 121 Kinderhook Street"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "READFIELD",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "8:30am-4:30pm; W: 10am-6pm; Fr: 7:30am-3:30pm 8 Old Kents Hill Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "ROME",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-7pm; T-Th: 9am-4pm 8 Mercer Rd"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "SIDNEY",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8:30am-4:30pm; W: 12pm-6pm 2986 Middle Rd"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "VASSALBORO",
+    "wp": "1-1",
+    "officeHours": "682",
+    "dropBoxLocation": "Main Street"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "VIENNA",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "5pm-7pm; W: 9am-5pm; Th: 10am-1pm 346 Town House Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "WATERVILLE",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 7:30am-5:30pm; Tu: 7:30am-5pm 1 Common St"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "WAYNE",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "9am-5pm 14 Kents Hill Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "WEST GARDINER",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 8am-1pm; Th: 11am-7pm 318 Spears Corner Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "WINDSOR",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th, F: 9am-5pm; T: 9am-7pm 523 Ridge Road"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "WINSLOW",
+    "wp": "1-1",
+    "officeHours": "T-Th:",
+    "dropBoxLocation": "12pm-4pm 114 Benton Ave"
+  },
+  {
+    "countyCode": "KEN",
+    "countyName": "Kennebec",
+    "municipality": "WINTHROP",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "T, Th: 8am-4:30pm; W: 7:30am-6pm; F: 8am-12pm 17 Highland Ave"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "APPLETON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "F: 8am-3pm; Tu: 8am-3pm & 5pm-8pm 2915 Sennebec Rd"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "CAMDEN",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-3:30pm; F: 7:30am-12pm 29 Elm St"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "CUSHING",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 8:30am-4:30pm; F: 7:30am-2:30pm 39 Cross Road"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "FRIENDSHIP",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th: 9am-3pm; T: 11am-6pm; W: 12pm-3pm; F: 9am-12pm N/A"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "HOPE",
+    "wp": "1-1",
+    "officeHours": "T-W,",
+    "dropBoxLocation": "F: 8:30am-4:30pm; Th: 12pm-6pm 441 Camden Rd"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "ISLE AU HAUT",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "MATINICUS ISLE PLT",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "NORTH HAVEN",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-2:00pm 16 Town Office Square"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "OWLS HEAD",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-5pm 224 Ash Point Dr"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "ROCKLAND",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5pm; F: 7:30am-12pm 270 Pleasant Street"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "ROCKPORT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 101 Main St Rockport"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "SAINT GEORGE",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 3 School Street"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "SOUTH THOMASTON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 8:30am-5pm; Tu: 8:30am-6pm 125 Spruce Head Road"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "THOMASTON",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 8am-5pm; W: 12pm-5pm; F: 8am-2pm 13 Valley Street"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "UNION",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-4pm 567 Common Road"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "VINALHAVEN",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-5pm; F: 8am-12pm 19 Washington School Road"
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "WARREN",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-5pm; Th: 8am-6pm 167 Western Rd."
+  },
+  {
+    "countyCode": "KNO",
+    "countyName": "Knox",
+    "municipality": "WASHINGTON",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-1pm, 4pm-7pm; T, Th, F: 9am-1pm; W: 2pm-6:45pm 40 Old Union Road"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "ALNA",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 10am-4pm; W: 11am-7pm; F: 9am-12pm 1574 Alna Rd"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "BOOTHBAY",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4:30pm 7 Corey Lane"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "BOOTHBAY HARBOR",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4:30pm 11 Howard St"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "BREMEN",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "8am-2pm 208 Waldoboro Rd"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "BRISTOL (and Louds Island Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 1268 Bristol Rd"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "DAMARISCOTTA",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 7:30am-5pm; W: 1pm-5pm 21 School St"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "DRESDEN",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "W, F: 9am-4pm; Th: 9am-6pm 534 Gardiner Road"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "EDGECOMB",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "1pm-6pm; Th: 1pm-5pm 16 Town Hall Rd."
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "JEFFERSON",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-6pm; T-Th: 8am-5pm 58 Washington Rd"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "MONHEGAN ISLAND PLT",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "NEWCASTLE",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-4:30pm 4 Pump St."
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "NOBLEBORO",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-4:30pm 192 Us Highway 1"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "SOMERVILLE",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 9am-6pm 72 Sand Hill Rd"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "SOUTH BRISTOL",
+    "wp": "1-1",
+    "officeHours": "T-Th:",
+    "dropBoxLocation": "9am-4pm 470 Clarks Cove Road"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "SOUTHPORT",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-12:30pm, 6pm-8pm; T-Th: 8am-12:30pm 361 Hendricks Hill Road"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "WALDOBORO",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 8am-5pm; Tu: 9am-6pm 1600 Atlantic Highway"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "WESTPORT ISLAND",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "10am-6pm; W-Th: 10am-2pm 1217 Main Road"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "WHITEFIELD",
+    "wp": "1-1",
+    "officeHours": "M-Tu:",
+    "dropBoxLocation": "8am-4pm; Th: 7am-12pm, 3pm-7pm; F: 8am-2pm N/A"
+  },
+  {
+    "countyCode": "LIN",
+    "countyName": "Lincoln",
+    "municipality": "WISCASSET",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5pm 51 Bath Road"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "ALBANY TWP",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "ANDOVER",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 8am-1pm; W: 12pm-5pm 17 Stillman Road"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "BETHEL (and Mason Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "BROWNFIELD",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "7am-4:30pm; Th: 9am-7pm 82 Main Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "BUCKFIELD",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "9am-8pm; W-F: 9am-4pm 34 Turner Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "BYRON",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "5pm-7pm; Th: 8am-1pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "CANTON",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-6pm; T, F: 8am-12pm; Th: 8am-6pm 94 Turner Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "DENMARK",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 8:30am-4:30pm; Tu: 10am-6pm 62 E. Main St"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "DIXFIELD",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8am-4pm 46 Main Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "FRYEBURG",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-5pm; Th: 9am-6:30pm 16 Lovewell Pond Road"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "GILEAD",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "10am-6pm; Th: 3pm-7pm 8 Depot Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "GREENWOOD",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, F: 8am-4pm; Tu: 8am-6pm 593 Gore Road"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "HANOVER",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th: 5pm-7pm; T: 8am-12pm; W: 2pm-5pm; F: 8am-4pm 21 Ferry Rd"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "HARTFORD",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "10am-5pm; Sa: 10am-1pm 1196 Main St"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "HEBRON",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 8am-4pm; Th: 10am-6pm 351 Paris Rd"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "HIRAM",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "9am-3pm; Th: 9am-7pm 16 Nasons Way"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "LINCOLN PLT",
+    "wp": "1-1",
+    "officeHours": "Th:",
+    "dropBoxLocation": "8am-12pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "LOVELL",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 9am-4pm; Tu: 9am-6pm 1069 Main Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "MEXICO",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th-F: 8am-4pm; W: 8am-6pm 134 Main Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "NEWRY",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "7am-5pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "NORWAY",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-5pm 19 Danforth Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "OTISFIELD",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 8am-5pm; Tu: 1pm-7pm 403 State Route 121"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "OXFORD",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 8am-4pm; Th: 10am-6pm 127 Pottle Road"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "PARIS",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 8am-5pm; W: 8am-6pm; F: 8am-1pm 33 Market Square"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "PERU",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-6pm; T, Th, F: 8am-5pm 26 Main Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "PORTER",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "9am-6pm; W: 8:30am-1pm; Th: 8:30am-3pm; F: 9am-4pm 71 Main St."
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "ROXBURY",
+    "wp": "1-1",
+    "officeHours": "W-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "RUMFORD",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 145 Congress St"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "STONEHAM",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Sa: 8am-1pm; W, F: 6pm-8pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "STOW",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "1pm-6pm; T: 2pm-6pm; Th: 9am-12pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "SUMNER",
+    "wp": "1-1",
+    "officeHours": "633",
+    "dropBoxLocation": "Main Street"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "SWEDEN",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "10am-6pm; F: 9am-4pm; 2nd & 4th Sa: 9am-12pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "UPTON",
+    "wp": "1-1",
+    "officeHours": "T-W:",
+    "dropBoxLocation": "8am-12pm; Th: 4pm-8pm N/A"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "WATERFORD",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 7.30am-4:30pm; W, F: 7.30am-5pm 366 Valley Road"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "WEST PARIS",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-5pm; Th: 10am-6pm; F: 8am-1pm 25 Kingsbury St"
+  },
+  {
+    "countyCode": "OXF",
+    "countyName": "Oxford",
+    "municipality": "WOODSTOCK (and Milton Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4:30pm 26 Monk Ave"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "ALTON",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 10am-6pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "BANGOR",
+    "wp": "1-1",
+    "officeHours": "M-F",
+    "dropBoxLocation": "8am-4:15pm 73 Harlow Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "BRADFORD",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 8am-5pm; W: 8am-6pm 345 East Road"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "BRADLEY",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "7:30am-6pm; W-F: 7:30am-4:30pm 165B Main Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "BREWER",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 80 North Main Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "BURLINGTON (and T3 ND Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 9am-12pm; W: 4pm-7pm 1523 Long Ridge Rd"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "CARMEL",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-8pm; W-F: 8am-5pm 1 Safety Lane"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "CARROLL PLT",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "5pm-7pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "CHARLESTON",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "9am-1:30pm, 4pm-7pm; W-F: 9am-1:30pm 125 School Rd"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "CHESTER (and Mattamiscontis Twp)",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "8am-4pm 43 South Chester Road"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "CLIFTON",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th-F: 8:30am-4pm; W: 10am-6pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "CORINNA",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "CORINTH",
+    "wp": "1-1",
+    "officeHours": "T-Th:",
+    "dropBoxLocation": "8am-6pm; F: 8am-4pm 31 Exeter Rd"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "DEXTER",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "7:30am-5pm 23 Main Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "DIXMONT",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 1pm-6pm; W, F: 8am-1pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "DREW TWP",
+    "wp": "1-1",
+    "officeHours": "Tu:",
+    "dropBoxLocation": "12:30pm-2:30pm and by appointment N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "EAST MILLINOCKET (and Molunkus Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 53 Main Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "EDDINGTON",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "EDINBURG (and Argyle Twp)",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "ENFIELD",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "ETNA",
+    "wp": "1-1",
+    "officeHours": "T-W:",
+    "dropBoxLocation": "7am-1pm; Th: 1pm-6pm; F: 7am-12pm 17 Shadow Lane"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "EXETER",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "8am-4pm 1221 Stetson Road"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "GARLAND",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "10am-4:30pm; W: 10am-6pm; Th-F: 9am-4:30pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "GLENBURN",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "7:30am-7pm; Th: 7:30am-3pm 144 Lakeview Rd"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "GREENBUSH",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "7:30am-4:30pm; Th: 11am-6:30pm 132 Military Road"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "HAMPDEN",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-6pm 106 Western Avenue"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "HERMON",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 333 Billings Road"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "HOLDEN",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-5:30pm 570 Main Rd"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "HOWLAND",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5pm 10 Bridge Road"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "HUDSON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "F: 9am-1pm; T: 9am-7pm; W: 8am-5pm; Th: 9am-5pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "KENDUSKEAG",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "F: 8am-5pm; Th: 9am-6pm 4010 Broadway"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "KINGMAN TWP (with Webster Plt & Prentiss Twp)",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "LAGRANGE (and Orneville Twp)",
+    "wp": "1-1",
+    "officeHours": "T-W:",
+    "dropBoxLocation": "3pm-7pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "LAKEVILLE",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "9am-12pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "LEE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-1am; 6pm-7pm; T-F: 9am-1pm 29 Winn Road"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "LEVANT",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th-F: 9a-4pm; W: 11:30am-7pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "LIMESTONE",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 93 Main St"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "LINCOLN",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-5pm 29 Main Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "LOWELL",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 1pm-5pm; W: 12pm-4pm 129 West Oid Main Rd"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "MATTAWAMKEAG (and Molunkus Twp)",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, F: 7am-4pm 327 Main Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "MAXFIELD",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "5pm-7pm; W: 8am-10am 231 River Rd"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "MEDWAY (and Molunkus Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 4 School Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "MILFORD (and Greenfield Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu:",
+    "dropBoxLocation": "8am-5pm; W: 9am-6pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "MOUNT CHASE",
+    "wp": "1-1",
+    "officeHours": "M-T,",
+    "dropBoxLocation": "Th-F: 8am-1pm, 1pm-4:30pm 1094 Shin Pond Road"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "NEWBURGH",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-6pm; T-Th: 8am-5pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "NEWPORT",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5:30pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "OLD TOWN (and Argyle Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5pm; T: 7am-5pm 265 Main Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "ORONO",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm 59 Main St and UMaine Stodder Hall"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "ORRINGTON",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm 1 Municipal Way"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "PASSADUMKEAG",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th: 11am-7pm; 2nd Sa: 8am-12pm 34 Pleasant Street"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "PATTEN",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 9am-4:30pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "PENOBSCOT NATION VOTING DISTRICT (and Argyle Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "PLYMOUTH",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "11am-6pm; Tu-W: 11am-5pm; Th: 7am-12pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "PRENTISS TWP (with Webster Plt & Kingman Twp)",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "SPRINGFIELD",
+    "wp": "1-1",
+    "officeHours": "T-W:",
+    "dropBoxLocation": "10am-2pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "STETSON",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "W, F: 8am-3:30pm; Th: 11:00am-7pm N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "VEAZIE",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm 1084 Main St"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "WEBSTER PLT (and Kingman Twp & Prentiss Twp)",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "WINN",
+    "wp": "1-1",
+    "officeHours": "T-Th:",
+    "dropBoxLocation": "12pm-4pm 59 Route 168"
+  },
+  {
+    "countyCode": "PEN",
+    "countyName": "Penobscot",
+    "municipality": "WOODVILLE",
+    "wp": "1-1",
+    "officeHours": "W-F:",
+    "dropBoxLocation": "9am-4pm 624 Woodville Road"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "ABBOT",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "F: 9am-5pm; Th: 10am-5pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "ATKINSON TWP (with Sebec)",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "3pm-7pm; T, F, Sa: 8:30am-1:30pm 29 North Road"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "BEAVER COVE",
+    "wp": "1-1",
+    "officeHours": "Th-F:",
+    "dropBoxLocation": "9am-1:30pm 795 Lily Bay Rd"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "BOWERBANK",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "DOVER-FOXCROFT",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th-F: 7:30am-4:30pm; W: 8:30am-5:30pm 48 Morton Ave."
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "GREENVILLE (and Sapling Twp)",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "7am-5pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "GUILFORD (and Kingsbury Plt)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 3 Park St"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "KINGSBURY PLT (with Guilford)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 3 Park Street"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "LAKE VIEW PLT",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "MEDFORD",
+    "wp": "1-1",
+    "officeHours": "T-W:",
+    "dropBoxLocation": "9am-11am; Th: 5pm-7pm 13 Trestle Road"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "MILO (and Orneville Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-4pm; F: 7am-2pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "MONSON (and Elliotsville Twp)",
+    "wp": "1-1",
+    "officeHours": "Tu:",
+    "dropBoxLocation": "8am-4pm; Th: 8am-6pm; F: 7:30am-3:30pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "ORNEVILLE TWP (with Milo)",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "7am-4pm; F: 7am-2pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "PARKMAN",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "F: 9am-5pm; T-Th: 9am-1pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "SANGERVILLE",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8:30am-5pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "SEBEC (and Atkinson Twp)",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "3pm-7pm; T, F, Sa: 8:30am-12:30pm 29 North Rd."
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "SHIRLEY",
+    "wp": "1-1",
+    "officeHours": "T-W:",
+    "dropBoxLocation": "9am-2pm; Th: 12pm-5pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "WELLINGTON",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "9am-12pm; Th: 3pm-6pm; Sa: 9am-12pm N/A"
+  },
+  {
+    "countyCode": "PIS",
+    "countyName": "Piscataquis",
+    "municipality": "WILLIMANTIC",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "5pm-7pm N/A"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "ARROWSIC",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment 340 Arrrowsic Rd"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "BATH",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5pm 55 Front St"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "BOWDOIN",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "F: 9am-2pm; Th: 9am-1pm, 4:30pm-7:30pm; Sa: 8am-10am 23 Cornish Drive"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "BOWDOINHAM",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8:30am-4pm; W: 11pm-6pm 13 School Street"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "GEORGETOWN",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "9am-12pm, 1pm-5pm 50 Bay Point Road"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "PHIPPSBURG",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "9am-1pm, 2pm-5pm 1042 Main Rd"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "RICHMOND",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5pm 26 Gardiner Street"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "TOPSHAM",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8:30am-4:30pm; Th: 8:30am-6pm; F: 8:30am-3pm 100 Maine St"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "WEST BATH",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 8am-4pm; Th: 8am-5pm 219 Fosters Point Road"
+  },
+  {
+    "countyCode": "SAG",
+    "countyName": "Sagadahoc",
+    "municipality": "WOOLWICH",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "T, Th: 8am-4:30pm; W: 9am-6pm 13 Nequasset Road"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "ANSON",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 8am-4pm 5 Kennebec Street"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "ATHENS",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th: 2:00pm-6pm 26 Academy Street"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "BINGHAM (and Carrying Place Twp)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "10am-6pm; Th: 10am-5pm; F: 1pm-6pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "BRIGHTON PLT",
+    "wp": "1-1",
+    "officeHours": "1st",
+    "dropBoxLocation": "and 3rd Sa: 12pm-4pm 1 Stagecoach Rd"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "CAMBRIDGE",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, F: 8am-12pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "CANAAN",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 7am-5pm; W: 8am-6pm 277 Main St"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "CARATUNK",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "CORNVILLE",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "10am-4pm; Th: 1pm-7pm 1 Walton Mill Road"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "DENNISTOWN PLT",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "10am-1pm; Th: 12pm-6pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "DETROIT",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8:30am-6pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "EMBDEN",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 9am-4pm; Th: 1pm-6pm 809 Embden Pond Road"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "FAIRFIELD",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4:30pm 19 Lawrence Ave"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "HARMONY",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "F: 8am-1pm; T, Th: 2pm-6pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "HARTLAND",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:15pm 21 Elm St."
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "HIGHLAND PLT (and Lexington Twp)",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "MADISON",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "7:30am-4pm 26 Weston Avenue"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "MERCER",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "8am-6pm; W: 8am-2pm; Th: 8am-4pm 1015 Beech Hill Rd"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "MOOSE RIVER",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "10am-1pm; Th: 12pm-6pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "MOSCOW (and Bowtown Twp)",
+    "wp": "1-1",
+    "officeHours": "Th:",
+    "dropBoxLocation": "9am-3pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "NEW PORTLAND (and Lexington Twp & Spring Lake Twp)",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "10am-5pm; Th: 12pm-6pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "NORRIDGEWOCK",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "PALMYRA",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "8am-4:30pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "PITTSFIELD",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5:30pm 112 Somerset Avenue"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "PLEASANT RIDGE PLT",
+    "wp": "1-1",
+    "officeHours": "Th:",
+    "dropBoxLocation": "9am-3pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "RIPLEY",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-2pm, 4pm-6pm; W: 3pm-7pm; Th: 3pm-6pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "ROCKWOOD STRIP TWP",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "SAINT ALBANS",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-5:30pm; W: 8am-1:30pm; T, Th-F: 8am-3:30pm 7 Water St"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "SKOWHEGAN",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4:30pm 225 Water Street"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "SMITHFIELD",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-3pm; W: 8am-11:30am and 6pm-8pm 926 Village Road"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "SOLON",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 8am-4pm; W: 8am-6pm 121 South Main St"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "STARKS",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-2pm; W: 3pm-7pm; Sa: 1st 8am-11am 57 Anson Rd"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "THE FORKS PLT (and Moxie Gore Twp)",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "1pm-5pm N/A"
+  },
+  {
+    "countyCode": "SOM",
+    "countyName": "Somerset",
+    "municipality": "WEST FORKS PLT (and Moxie Gore Twp)",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "Th: 4pm-6pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "BELFAST",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-6pm 131 Church Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "BELFAST",
+    "wp": "2-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-6pm 131 Church Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "BELFAST",
+    "wp": "3-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-6pm 131 Church Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "BELFAST",
+    "wp": "4-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-6pm 131 Church Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "BELFAST",
+    "wp": "5-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-6pm 131 Church Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "BELMONT",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 9am-4pm; Tu: 9am-6pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "BROOKS",
+    "wp": "1-1",
+    "officeHours": "15",
+    "dropBoxLocation": "Purple Heart Hwy"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "BURNHAM",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-4pm; F: 8am-2pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "FRANKFORT",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-12pm; 5pm-8pm; T-Th: 8am-5pm; F: 9am-3pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "FREEDOM",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-6pm; T-Th: 9am-3pm; 1st Sa: 9am-12pm 71 Pleasant Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "ISLESBORO",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8:30am-4:30pm; W: 10am-4:30pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "JACKSON",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "F: 8am-1pm; T: 3pm-7pm; Th: 12pm-5pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "KNOX",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 8am-1pm; Tu: 12pm-6pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "LIBERTY",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-6pm; T: 10am-2:30pm; Th: 7:30am-2:30pm 7 Water Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "LINCOLNVILLE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8:30am-5:30pm; T-F: 8:30am-5:00pm 493 Hope Road"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "MONROE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-5pm; W: 8am-2pm; 4pm-7pm; F: 2pm-5pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "MONTVILLE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "11am-7pm; W: 7am-12pm; F: 8am-4pm; 3rd Sa: 9am-1pm 414 Center Road"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "MORRILL",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 4pm-8pm; T: 2pm-6pm; Th: 8am-12pm 44 Weymouth Rd"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "NORTHPORT",
+    "wp": "1-1",
+    "officeHours": "T-F:",
+    "dropBoxLocation": "8am-4pm; Sa: 8am-12pm 16 Beech Hill Road"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "PALERMO",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "W, F: 7:30am-1:30pm; Th: 10am-7pm 45 North Palermo Road"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "PROSPECT",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "10am-7pm; Th-F: 10am-4pm 958 Bangor Road"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "SEARSMONT",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-7pm; T-Th: 8am-5pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "SEARSPORT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm 3 Union Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "STOCKTON SPRINGS",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "9am-5pm 217 Main Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "SWANVILLE",
+    "wp": "1-1",
+    "officeHours": "M-T,",
+    "dropBoxLocation": "Th-F: 8am-1:30pm; W: 1pm-7pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "THORNDIKE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-2pm; T, Th: 8am-5pm; W: 12pm-6pm; Sa: 8am-12pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "TROY",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 9am-4pm; W: 11pm-6pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "UNITY",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th, F: 8am-2pm; Tu: 11am-7pm 74 School Street"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "WALDO",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "3pm-6pm; W: 9am-12pm; Th: 9am-12pm & 2pm-6pm N/A"
+  },
+  {
+    "countyCode": "WAL",
+    "countyName": "Waldo",
+    "municipality": "WINTERPORT",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "7am-5:30pm; Th: 7am-6pm 44 Main St"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "ADDISON",
+    "wp": "1-1",
+    "officeHours": "M-T,",
+    "dropBoxLocation": "Th-F: 8:30am-4pm; W: 8:30am-6pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "ALEXANDER",
+    "wp": "1-1",
+    "officeHours": "T-Th:",
+    "dropBoxLocation": "9am-5pm; Sa: 8am-12pm 50 Cooper Rd"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "BAILEYVILLE",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 63 Broadway Street"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "BARING PLT",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "BEALS",
+    "wp": "1-1",
+    "officeHours": "T-Th:",
+    "dropBoxLocation": "10am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "BEDDINGTON",
+    "wp": "1-1",
+    "officeHours": "Th:",
+    "dropBoxLocation": "8am-3pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "CALAIS",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-5pm 11 Church Street"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "CHARLOTTE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-5pm; W: 11:30am-6pm; F: 12pm-5pm; Sa: 9am-1pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "CHERRYFIELD (and T10 SD Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8:30am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "CODYVILLE TWP (with Topsfield)",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "9am-1pm; Sa: 9am-12pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "COLUMBIA",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8am-4pm ; F: 8am-2:00pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "COLUMBIA FALLS (and Centerville Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "COOPER (and Cathance Twp)",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "CRAWFORD",
+    "wp": "1-1",
+    "officeHours": "1st",
+    "dropBoxLocation": "and 3rd Sat: 8:30am-10:30am N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "CUTLER",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th: 9:30am-5pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "DANFORTH",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "DEBLOIS",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "8am-3pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "DENNYSVILLE (and Edmunds Twp)",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "12pm-6pm 2 Main Street"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "EAST MACHIAS",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "8am-4pm; F: 8am-3:30pm 32 Cutler Raod"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "EASTPORT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 22 Washington"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "GRAND LAKE STREAM PLT (and Greenlaw Chopping Twp)",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "8am-10am, 4pm-6pm; Th: 8am-10am 15 Water Street"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "HARRINGTON",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-5pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "INDIAN TWP (and Sakom Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "7:30am-4pm 8 Kennebasis Road"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "JONESBORO",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W-Th: 8am-4:30pm; T: 10am-6pm; F: 8am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "JONESPORT",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-1pm; T, Th: 8am-5pm; W: 8am-6pm 70 Snare Creek Lane"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "LUBEC",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "MACHIAS",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-2:30pm; T, Th: 9am-4pm; W, F: 10am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "MACHIASPORT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "MARSHFIELD",
+    "wp": "1-1",
+    "officeHours": "Tu,",
+    "dropBoxLocation": "Th: 8am-2pm; W: 3pm-6pm 187 Northfield Rd"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "MEDDYBEMPS",
+    "wp": "1-1",
+    "officeHours": "By",
+    "dropBoxLocation": "appointment N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "MILBRIDGE (and T10 SD Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 18 School Street"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "NORTHFIELD",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "3pm-6pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "PEMBROKE",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-5pm; W: 11:30am-6pm; F: 12pm-5pm; Sa: 9am-1pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "PERRY",
+    "wp": "1-1",
+    "officeHours": "T:",
+    "dropBoxLocation": "10am-6pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "PLEASANT POINT VOTING DISTRICT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-12pm, 12:30pm-4:30pm 22 Bayview Drive"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "PRINCETON (and Big Lake Twp)",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 15 Depot St"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "ROBBINSTON",
+    "wp": "1-1",
+    "officeHours": "M-T:",
+    "dropBoxLocation": "5pm-7pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "ROQUE BLUFFS",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "9am-5pm; T-Th: 9am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "STEUBEN (and T7 SD Twp)",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 8am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "TALMADGE",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "9am-11am and by appointment 10 Old Mill Road"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "TOPSFIELD (and Codyville Twp)",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 9am-12pm; Sa: 9am-12pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "VANCEBORO",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "9am-3pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "WAITE",
+    "wp": "1-1",
+    "officeHours": "W:",
+    "dropBoxLocation": "9am-11am and by appointment 10 Old Mill Road"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "WESLEY (and Day Block Twp)",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "4pm-7pm; W, F: 9am-2pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "WHITING",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, F: 8am-4pm N/A"
+  },
+  {
+    "countyCode": "WAS",
+    "countyName": "Washington",
+    "municipality": "WHITNEYVILLE",
+    "wp": "1-1",
+    "officeHours": "Sa:",
+    "dropBoxLocation": "9am-11am N/A"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "ACTON",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "W, F: 8:30am-4:30pm; Th: 12pm-7pm 35 H Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "ALFRED",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8:15am-4:30pm 16 Saco Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "ARUNDEL",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7am-5:30pm 257 Limerick Rd"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "BERWICK",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 8am-5:30pm; T, Th: 8am-5pm 11 Sullivan Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "BIDDEFORD",
+    "wp": "1-1",
+    "officeHours": "M-Tu:",
+    "dropBoxLocation": "7am-5pm; W-Th: 8am-4pm 205 Main Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "BUXTON",
+    "wp": "1-1",
+    "officeHours": "M-T,",
+    "dropBoxLocation": "Th-F: 8:30am-4:30pm; W: 11:30am-7:30pm 185 Portland Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "CORNISH",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 8am-3pm; Th: 8am-6pm 17 Maple St"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "DAYTON",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "10am-6pm; W: 8am-3pm; Th: 10am-5:30pm 33 Clarks Mill Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "ELIOT",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8:30am-3:30pm 1333 State Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "HOLLIS",
+    "wp": "1-1",
+    "officeHours": "T,",
+    "dropBoxLocation": "Th, F: 9am-4pm; W: 11am-7pm 34 Town Farm Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "KENNEBUNK",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 1 Summer Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "KENNEBUNKPORT",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "8am-5pm; F: 8am-12pm 6 Elm Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "KITTERY",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "8:30am-4pmTh: 8:30am-6pm; Fr: 8:30am-1:30pm 200 Rogers Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "LEBANON",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "7am-4:30pm; Th: 9:30am-7pm 15 Upper Guinea Rd"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "LIMERICK",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "9am-4:30pm; F: 9am-12pm N/A"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "LIMINGTON",
+    "wp": "1-1",
+    "officeHours": "M-W,",
+    "dropBoxLocation": "F: 9am-5pm; Th: 6pm-8pm 425 Sokokis Ave"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "LYMAN",
+    "wp": "1-1",
+    "officeHours": "M-Tu,",
+    "dropBoxLocation": "Th-F: 9am-4pm; W: 12pm-7pm 11 S. Waterboro Rd"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "NEWFIELD",
+    "wp": "1-1",
+    "officeHours": "637",
+    "dropBoxLocation": "Water Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "NORTH BERWICK",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W: 8am-5:30pm; Tu, Th: 8am-5:00pm 21 Main Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "OGUNQUIT",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 23 School Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "OLD ORCHARD BEACH",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W--F: 8am-4pm; Tu: 8am-6pm 1 Portland Avenue"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "PARSONSFIELD",
+    "wp": "1-1",
+    "officeHours": "M:",
+    "dropBoxLocation": "8am-6pm; T-Th: 8am-4pm 634 North Rd"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "SACO",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-4pm; F: 7:30am-1pm 300 Main Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "SANFORD",
+    "wp": "1-1",
+    "officeHours": "M-Th:",
+    "dropBoxLocation": "7:30am-5:30pm 919 Main St"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "SHAPLEIGH",
+    "wp": "1-1",
+    "officeHours": "T-W,",
+    "dropBoxLocation": "F: 8:30am-4:30pm; Th: 12pm-7pm 22 Back Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "SOUTH BERWICK",
+    "wp": "1-1",
+    "officeHours": "M-W:",
+    "dropBoxLocation": "9am-5pm; Th: 9am-6pm 180 Main Street"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "WATERBORO",
+    "wp": "1-1",
+    "officeHours": "M,",
+    "dropBoxLocation": "W, Th: 8am-5:30pm; Tu: 8am-6pm 24 Townhouse Rd"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "WELLS",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 208 Sanford Road"
+  },
+  {
+    "countyCode": "YOR",
+    "countyName": "York",
+    "municipality": "YORK",
+    "wp": "1-1",
+    "officeHours": "M-F:",
+    "dropBoxLocation": "8am-4pm 186 Town St"
+  }
+]
