@@ -62,27 +62,43 @@
       font-size:14px;
       line-height:1.2;
     }
-    input::placeholder{color:rgba(154,167,189,.7);}
+/* Inputs */
+input, select, button{
+  width:100%;
+  min-width:0;
+  border-radius:14px;
+  padding:12px 14px;   /* uniform padding */
+  border:1px solid var(--stroke);
+  background:rgba(18,26,43,.80);
+  color:var(--text);
+  outline:none;
+  font-size:14px;
+  line-height:1.2;
+}
 
-    /* Fix mobile dropdown rendering */
-    select{
-      appearance:none;
-      -webkit-appearance:none;
-      -moz-appearance:none;
-      padding-right:38px; /* room for arrow */
-      touch-action: manipulation;
-    }
-    .select-wrap{position:relative;}
-    .select-wrap::after{
-      content:"▾";
-      position:absolute;
-      right:14px;
-      top:50%;
-      transform:translateY(-50%);
-      pointer-events:none;
-      color:rgba(154,167,189,.9);
-      font-size:14px;
-    }
+/* Fix mobile dropdown rendering */
+select{
+  appearance:none;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  padding-right:44px;   /* more space for arrow */
+  background-clip: padding-box;
+}
+
+/* Arrow */
+.select-wrap{position:relative;}
+.select-wrap::after{
+  content:"▾";
+  position:absolute;
+  right:16px;
+  top:50%;
+  transform:translateY(-50%);
+  pointer-events:none;
+  color:rgba(154,167,189,.9);
+  font-size:16px;
+  line-height:1;
+}
+
 
     button{
       cursor:pointer;
