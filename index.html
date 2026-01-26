@@ -175,62 +175,17 @@
 </main>
 
 <script>
-  const countySelect = document.getElementById('county');
-  const qInput = document.getElementById('q');
-  const listEl = document.getElementById('list');
-  const countPill = document.getElementById('countPill');
-  const shareBtn = document.getElementById('shareBtn');
-
-  // Add a visible status pill (so you stop guessing)
-  const metaRow = document.querySelector('.meta-row');
-  const statusPill = document.createElement('div');
-  statusPill.className = 'pill';
-  statusPill.innerHTML = '<span id="statusText">Loading data…</span>';
-  metaRow.prepend(statusPill);
-  const statusText = document.getElementById('statusText');
-
-  let DATA = [];
-
-  function esc(s){
-    return (s ?? '').toString()
-      .replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
-      .replaceAll('"',"&quot;").replaceAll("'","&#039;");
-  }
-  function normalize(s){ return (s ?? '').toString().trim().toLowerCase(); }
-
-  function getParams(){
-    const u = new URL(window.location.href);
-    return { county: u.searchParams.get('county') || '', q: u.searchParams.get('q') || '' };
-  }
-  function setParams(countyCode, q){
-    const u = new URL(window.location.href);
-    if(countyCode) u.searchParams.set('county', countyCode); else u.searchParams.delete('county');
-    if(q) u.searchParams.set('q', q); else u.searchParams.delete('q');
-    history.replaceState({}, "", u.toString());
-  }
-
-  function validateDataShape(rows){
-    if(!Array.isArray(rows)) throw new Error("data.json must be a JSON array.");
-    if(rows.length === 0) throw new Error("data.json is empty ([]). No data = no search.");
-    const sample = rows[0];
-    const required = ["countyCode","countyName","municipality","wp","officeHours","dropBoxLocation"];
-    const missing = required.filter(k => !(k in sample));
-    if(missing.length){
-      throw new Error(
-        "data.json keys don't match what the site expects. Missing: " +
-        missing.join(", ") +
-        ". Fix your JSON keys or tell me your current keys and I’ll map them."
-      );
-    }
-  }
+  // ... keep your existing code above ...
 
   function buildCountyDropdown(data){
     const counties = Array.from(new Map(data.map(r => [r.countyCode, r.countyName])).entries())
       .map(([countyCode, countyName]) => ({ countyCode, countyName }))
       .sort((a,b) => a.countyName.localeCompare(b.countyName));
 
+    // Add "All counties" at the top
     countySelect.innerHTML =
       `<option value="" disabled selected>Select a county…</option>` +
+      `<option value="ALL">All counties</option>` +
       counties.map(c =>
         `<option value="${esc(c.countyCode)}">${esc(c.countyName)} (${esc(c.countyCode)})</option>`
       ).join("");
@@ -239,7 +194,7 @@
   }
 
   function render(){
-    const countyCode = countySelect.value;
+    const countyCode = countySelect.value; // "" | "ALL" | actual code
     const q = normalize(qInput.value);
 
     if(!DATA.length){
@@ -256,17 +211,17 @@
       countPill.textContent = "0 results";
       listEl.innerHTML = `
         <div class="card">
-          <div class="muni">Pick a county</div>
-          <div class="row"><div class="v na">Select a county to view municipalities.</div></div>
+          <div class="muni">Pick a county (or All counties)</div>
+          <div class="row"><div class="v na">Select a county to view municipalities, or choose All counties.</div></div>
         </div>`;
       return;
     }
 
     const rows = DATA
-      .filter(r => r.countyCode === countyCode)
+      .filter(r => countyCode === "ALL" ? true : r.countyCode === countyCode)
       .filter(r => {
         if(!q) return true;
-        const blob = normalize([r.municipality, r.officeHours, r.dropBoxLocation, r.wp].join(" "));
+        const blob = normalize([r.municipality, r.officeHours, r.dropBoxLocation, r.wp, r.countyName].join(" "));
         return blob.includes(q);
       });
 
@@ -276,7 +231,7 @@
       listEl.innerHTML = `
         <div class="card">
           <div class="muni">No matches</div>
-          <div class="row"><div class="v na">Clear search or verify you picked the right county.</div></div>
+          <div class="row"><div class="v na">Clear search, or verify your county selection.</div></div>
         </div>`;
       setParams(countyCode, qInput.value.trim());
       return;
@@ -288,7 +243,12 @@
       return `
         <div class="card">
           <div class="card-top">
-            <div class="muni">${esc(r.municipality)}</div>
+            <div>
+              <div class="muni">${esc(r.municipality)}</div>
+              ${countyCode === "ALL"
+                ? `<div class="k">County</div><div class="v">${esc(r.countyName)} (${esc(r.countyCode)})</div>`
+                : ``}
+            </div>
             <div class="wp">${esc(r.wp || "")}</div>
           </div>
 
@@ -326,7 +286,10 @@
       const params = getParams();
       if(params.q) qInput.value = params.q;
 
-      if(params.county && DATA.some(r => r.countyCode === params.county)){
+      // Accept ALL as a valid county param
+      if(params.county === "ALL"){
+        countySelect.value = "ALL";
+      } else if(params.county && DATA.some(r => r.countyCode === params.county)){
         countySelect.value = params.county;
       }
 
@@ -341,22 +304,9 @@
     }
   }
 
-  countySelect.addEventListener('change', render);
-  qInput.addEventListener('input', () => window.requestAnimationFrame(render));
-
-  shareBtn.addEventListener('click', async () => {
-    const url = window.location.href;
-    try{
-      await navigator.clipboard.writeText(url);
-      shareBtn.textContent = "Copied!";
-      setTimeout(() => (shareBtn.textContent = "Copy Share Link"), 900);
-    } catch(e){
-      prompt("Copy this link:", url);
-    }
-  });
-
-  init();
+  // ... keep your existing listeners + init(); ...
 </script>
+
 
 </body>
 </html>
